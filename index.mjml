@@ -1,0 +1,43 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-font name="Bitter" href="https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+            <mj-text align="left" color="#193380" line-height="20px" letter-spacing="0.22px" font-size="14px" />
+            <mj-section background-color="#fff" />
+            <mj-all font-family="'Bitter', serif;" padding="0" />
+            <mj-title>Communities-Launch Emailer</mj-title>
+        </mj-attributes>
+        <mj-style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+
+            body,
+            td,
+            input,
+            textarea,
+            select,
+            .font {
+                font-family: 'lato', Arial, Helvetica;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body>
+        <mj-section padding-top="20px">
+            <mj-column width="25%" padding="0 20px 20px">
+                <mj-image src="Vetmax Logo.jpg" width="200px" />
+            </mj-column>
+            <mj-column width="75%" padding="0 0 25px 10px">
+                <mj-text color="#04549B" font-size="25px" font-weight="500">
+                    Vetmax Pharmaceuticals Pvt. Ltd.
+                </mj-text>
+                <mj-text padding="5px 0 0 0" font-weight="bold" color="#3F882B">
+                    +91-9412193878
+                </mj-text>
+                <mj-text font-weight="bold" color="#3F882B" font-style="italic">
+                    vetmaxindia@gmail.com
+                </mj-text>
+            </mj-column>
+    </mj-body>
+</mjml>
